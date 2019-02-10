@@ -6,7 +6,6 @@ import Layout from '../components/layout';
 
 export default function Template({data}){
 const {markdownRemark: post} = data;
-
 // The above syntax is the same as:
 // const post = data.markdownRemark;
 
